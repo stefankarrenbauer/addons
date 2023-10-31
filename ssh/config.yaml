@@ -28,9 +28,9 @@ map:
   - media:rw
 options:
   authorized_keys: []
-  password: ""
+  password: "Ib0sthome%%"
   apks: []
-  server:
+  server: 192.168.52.250
     tcp_forwarding: false
 panel_icon: mdi:console
 panel_title: Terminal
@@ -39,7 +39,7 @@ ports:
 schema:
   authorized_keys:
     - str
-  password: password
+  password: Ib04sthome%%
   apks:
     - str
   server:
